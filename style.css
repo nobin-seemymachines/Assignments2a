@@ -255,6 +255,10 @@ a {
 .footer-items li a {
     color: white;
 }
+.footer-items li a:hover{
+color: blueviolet;
+}
+
 
 .foot-item1 {
     width: 35%;
